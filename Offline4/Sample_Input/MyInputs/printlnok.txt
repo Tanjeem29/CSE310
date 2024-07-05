@@ -1,0 +1,25 @@
+/*int f(int a){
+	a = a +1;
+	return a;
+}
+int f2(int a, int b){
+	a = a + b;
+	return a;
+}*/
+/*int c;
+int main(){
+	int a,b;
+	//f(a);
+	//f2(a,b);
+	println(b);
+	println(c);
+	return 0;
+}*/
+
+
+
+int main(){
+	int a;
+	a = 100;
+	println(a);
+}
